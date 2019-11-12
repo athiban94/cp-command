@@ -1,4 +1,5 @@
 # cp-command
+This is a bare-bones implementation of the cp command on NetBSD
 
 ## bbcp—bare-bones copyafile
 The bbcp utility copies the contents of the  source to target. If targetis a directory,bbcp will copy source into this directory.
