@@ -1,5 +1,8 @@
 # cp-command
 
+## bbcp—bare-bones copyafile
+The bbcp utility copies the contents of the  source to target. If targetis a directory,bbcp will copy source into this directory.
+
 ## Problems encountered:
 
 ** To check if a given pathname is a file or directory?
